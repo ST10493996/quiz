@@ -21,3 +21,9 @@ Quiz is an educational Android application designed to make learning fun, fast, 
 ![UI6](https://github.com/user-attachments/assets/fb4e5834-4363-4c82-9d05-b37222a0d445)
 
 # GitHub link
+https://github.com/ST10493996/quiz/blob/main/README.md
+
+# YouTube Link
+https://youtube.com/shorts/NpsB7qRZ9Pw?si=psv8_WljLHIvOIaJ
+
+
